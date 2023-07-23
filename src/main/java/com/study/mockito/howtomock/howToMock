@@ -1,0 +1,4 @@
+1.Run With
+2.Annotation @Mock MockitoAnnotations.initMocks(this);
+3.MockitoRule mockitoRule = MockitoJUnit.rule();
+4.answer = Answers.RETURNS_DEEP_STUBS

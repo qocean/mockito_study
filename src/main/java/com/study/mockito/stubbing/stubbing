@@ -1,0 +1,6 @@
+stubbing：打桩
+1.How to Stubbing
+2.stubbing void methods
+3.stubbing method with exception
+4.stubbing consecutive calls
+5.stubbing with real call
